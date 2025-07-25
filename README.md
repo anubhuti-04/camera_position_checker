@@ -1,1 +1,2 @@
 A lightweight and responsive web tool built with **HTML**, **CSS**, and **JavaScript** to help users visually test and adjust their **webcam position** for better framing before joining a video call or recording a video.
+**Live Demo**: https://camera-position-checker.netlify.app/
