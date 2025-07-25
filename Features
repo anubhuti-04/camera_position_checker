@@ -1,0 +1,5 @@
+- Real-time camera preview using `getUserMedia` API  
+-  Grid overlay to align your face properly  
+-  Light/Dark mode toggle for better visibility  
+-  Minimal and distraction-free interface  
+-  Fully responsive (works on mobile and desktop)
